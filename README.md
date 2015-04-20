@@ -12,4 +12,4 @@ Checks recent losing sprees of enemy League of Legends players. Written in Pytho
  - Config the `config.py` file with summoner name, region and API key.
  
 ### Screenshots
-<center><img src="https://raw.githubusercontent.com/TerryDEV/GankChecker/master/screenshots/GankCheck.PNG"></center>
+<p align="center"><img src="https://raw.githubusercontent.com/TerryDEV/GankChecker/master/screenshots/GankCheck.PNG"></p>
